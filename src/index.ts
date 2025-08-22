@@ -17,8 +17,6 @@ import { logger } from "./utils/logger.js";
 const serenya = new Client({
   intents: [
     GatewayIntentBits.Guilds,
-    GatewayIntentBits.GuildMessages,
-    GatewayIntentBits.MessageContent,
   ],
 });
 
