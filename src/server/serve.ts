@@ -19,7 +19,7 @@ const html = `<!DOCTYPE html>
   <body>
     <main>
     <h1>Serenya</h1>
-    <img src="https://cdn.nhcarrigan.com/new-avatars/serenya.png" width="250" alt="Serenya" />
+    <img src="https://cdn.nhcarrigan.com/new-avatars/serenya-full.png" width="250" alt="Serenya" />
     <section>
       <p>Discord bot that allows you to force yourself to take a break.</p>
       <a href="https://discord.com/oauth2/authorize?client_id=1408505202004463757" class="social-button discord-button" style="display: inline-block; background-color: #5865F2; color: white; padding: 10px 20px; text-decoration: none; border-radius: 4px; margin: 5px;">
