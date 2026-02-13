@@ -17,7 +17,7 @@
   "dependencies": {
     "@nhcarrigan/logger": "1.0.0",
     "discord.js": "14.22.1",
-    "fastify": "5.7.2"
+    "fastify": "5.7.4"
   },
   "devDependencies": {
     "@nhcarrigan/eslint-config": "5.2.0",
